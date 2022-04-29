@@ -1,0 +1,77 @@
+<Catalog>
+<mobile>
+<brand>Xiaomi</brand>
+<description>Redmi Note 11 Pro</description>
+<price>340.00</price>
+</mobile>
+<mobile>
+<brand>Xiaomi</brand>
+<description>Redmi 9A</description>
+<price>109.70</price>
+</mobile>
+<mobile>
+<brand>Xiaomi</brand>
+<description>Redmi 9</description>
+<price>195.00</price>
+</mobile>
+<mobile>
+<brand>Samsung</brand>
+<description>Galaxy S22 Smartphone</description>
+<price>799.99</price>
+</mobile>
+<mobile>
+<brand>Samsung</brand>
+<description>Galaxy S21 Smartphone</description>
+<price>599.99</price>
+</mobile>
+<mobile>
+<brand>Samsung</brand>
+<description>Galaxy S20 5G</description>
+<price>429.00</price>
+</mobile>
+<mobile>
+<brand>Samsung</brand>
+<description>Galaxy S20 FE 5G</description>
+<price>383.90</price>
+</mobile>
+<mobile>
+<brand>RealMe</brand>
+<description>GT 2 Pro</description>
+<price>799.00</price>
+</mobile>
+<mobile>
+<brand>RealMe</brand>
+<description>GT Master Edition</description>
+<price>336.72</price>
+</mobile>
+<mobile>
+<brand>RealMe</brand>
+<description>GT Neo 2 5G</description>
+<price>474.00</price>
+</mobile>
+<mobile>
+<brand>Apple</brand>
+<description>iPhone 11</description>
+<price>336.89</price>
+</mobile>
+<mobile>
+<brand>Apple</brand>
+<description>iPhone X</description>
+<price>258.95</price>
+</mobile>
+<mobile>
+<brand>Apple</brand>
+<description>iPhone 8</description>
+<price>156.94</price>
+</mobile>
+<mobile>
+<brand>Apple</brand>
+<description>iPhone 12</description>
+<price>499.00</price>
+</mobile>
+<mobile>
+<brand>Apple</brand>
+<description>iPhone 12 Pro Max</description>
+<price>929.00</price>
+</mobile>
+</Catalog>

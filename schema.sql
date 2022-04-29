@@ -1,0 +1,8 @@
+
+create table Mobile (
+	MobileID INTEGER PRIMARY KEY AUTOINCREMENT,
+	Brand TEXT NOT NULL,
+	Price DECIMAL(8,2) NOT NULL
+);
+
+
